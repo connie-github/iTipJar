@@ -2,7 +2,7 @@
 
 This is a Tip Calculator application for iOS submitted as the [pre-assignment](https://gist.github.com/timothy1ee/7747214) requirement for CodePath.
 
-**Time spent:** ~3hrs
+**Time spent:** ~4hrs
 
 **Completed:**
 
@@ -10,12 +10,12 @@ This is a Tip Calculator application for iOS submitted as the [pre-assignment](h
 * [x] Required: Settings page to change the default tip percentage.
 * [ ] Optional: UI animations
 * [ ] Optional: Remembering the bill amount across app restarts (if <10mins)
-* [ ] Optional: Using locale-specific currency and currency thousands separators.
-* [ ] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-* [ ] Additional: 
+* [x] Optional: Using locale-specific currency and currency thousands separators.
+* [x] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder
+* [ ] Additional: Add a light/dark color theme to the settings view
+* [ ] Additional: Add setting to round total amount and/or round tip amount
 
-![Video Walkthrough](name of your gif file.gif)
+![Demo](tipcalcdemo.gif)
 
-Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
 
 *GIF created with [LiceCap](http:/www.cockos.com/licecap)*
